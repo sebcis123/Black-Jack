@@ -20,7 +20,7 @@ public:
     }
 
     void display() const {
-        std::cout << rank << "koloru " << suit;
+        std::cout << rank << " koloru " << suit;
     }
 };
 
